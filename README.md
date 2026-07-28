@@ -1,15 +1,16 @@
-# Hi there! 👋
+# Hi there! I'm Kanchan! 👋
+I am passionate about coding, always eager to learn new skills, and I genuinely enjoy my own company while building cool logic and features. 🚀
 
-<img src="https://unsplash.com" alt="Banner" width="100%" style="border-radius: 8px;" />
+<img src="https://unsplash.com" alt="VS Code Running Banner" width="100%" style="border-radius: 8px;" />
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Current Focus & Learning
 
-- 🚀 Currently mastering **C, C++, and Web Development** concepts.
-- 💡 Familiar with **HTML5, CSS3, JavaScript, ra SQL** databases.
+- 🎯 Currently mastering **C, C++, and Web Development** concepts.
+- 💡 Familiar with **HTML5, CSS3, JavaScript, and SQL** databases.
 - 🛠️ Learning version control using **Git and GitHub** along with **VS Code**.
-- 🌐 Exploring the world of web development and building programming fundamentals.
+- 🌐 Exploring the world of web development and building solid programming fundamentals.
 
 ---
 
