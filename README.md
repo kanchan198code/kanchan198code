@@ -1,7 +1,5 @@
-# Hi there! I'm Kanchan! 👋
+# Hi! I'm Kanchan! 👋
 I am passionate about coding, always eager to learn new skills, and I genuinely enjoy my own company while building cool logic and features. 🚀
-
-<img src="https://unsplash.com" alt="VS Code Running Banner" width="100%" style="border-radius: 8px;" />
 
 ---
 
