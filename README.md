@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Kanchan! 👋
 
-<!--
-**kanchan198code/kanchan198code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate learner exploring the world of programming and web development.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+Here are the languages and tools that I have learned and worked with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Programming & Web Languages
+<p align="left">
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="SQL" />
+</p>
+
+#### 🧰 Tools & Version Control
+<p align="left">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" width="400" />
+</p>
+
+---
+
+### 🎯 Current Focus
+- 🔭 I’m currently building web projects using JavaScript and SQL.
+- 🌱 I’m constantly sharpening my skills in Git and problem-solving.
+- 📫 How to reach me: [Tapaiko Email/Social Link yo thau ma thapnuhos]
