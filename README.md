@@ -33,4 +33,4 @@ Here are the languages and tools that I have learned and worked with:
 ### 🎯 Current Focus
 - 🔭 I’m currently building web projects using JavaScript and SQL.
 - 🌱 I’m constantly sharpening my skills in Git and problem-solving.
-- 📫 How to reach me: [Tapaiko Email/Social Link yo thau ma thapnuhos]
+- 📫 How to reach me: https://www.linkedin.com/in/radhika-neupane-11a4b7371/
