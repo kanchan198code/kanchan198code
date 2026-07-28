@@ -1,36 +1,44 @@
-## Hi there, I'm Kanchan! 👋
+# Hi there! 👋
 
-A passionate learner exploring the world of programming and web development.
+<img src="https://unsplash.com" alt="Banner" width="100%" style="border-radius: 8px;" />
 
-### 🛠️ Tech Stack & Skills
-Here are the languages and tools that I have learned and worked with:
+---
 
-#### 💻 Programming & Web Languages
+## 👩‍💻 About Me
+
+- 🚀 Currently mastering **C, C++, and Web Development** concepts.
+- 💡 Familiar with **HTML5, CSS3, JavaScript, ra SQL** databases.
+- 🛠️ Learning version control using **Git and GitHub** along with **VS Code**.
+- 🌐 Exploring the world of web development and building programming fundamentals.
+
+---
+
+## 🛠️ Technologies I Use
+
+### Frontend Development
 <p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="SQL" />
+  <a href="https://mozilla.org"><img src="https://shields.io" alt="HTML5" height="28" /></a>
+  <a href="https://mozilla.org"><img src="https://shields.io" alt="CSS3" height="28" /></a>
+  <a href="https://mozilla.org"><img src="https://shields.io" alt="JavaScript" height="28" /></a>
 </p>
 
-#### 🧰 Tools & Version Control
+### Programming Languages & Databases
 <p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="C" height="28" />
+  <img src="https://shields.io" alt="C++" height="28" />
+  <img src="https://shields.io" alt="SQL" height="28" />
+</p>
+
+### Tools & IDE
+<p align="left">
+  <img src="https://shields.io" alt="VS Code" height="28" />
+  <img src="https://shields.io" alt="Git" height="28" />
+  <img src="https://shields.io" alt="GitHub" height="28" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="left">
   <img src="https://vercel.app" alt="GitHub Stats" width="400" />
 </p>
-
----
-
-### 🎯 Current Focus
-- 🔭 I’m currently building web projects using JavaScript and SQL.
-- 🌱 I’m constantly sharpening my skills in Git and problem-solving.
-- 📫 How to reach me: https://www.linkedin.com/in/radhika-neupane-11a4b7371/  radhikaneupane2064@gmail.com
